@@ -15,3 +15,6 @@ lib.AddObserver(lisi)
 // 图书上新了，将会通知两位读者
 lib.AddBook(new Book("三国演义"))
 lib.AddBook(new Book("水浒传"))
+// 移除观察者
+lib.RemoveObserver(lisi)
+lib.AddBook(new Book("红楼梦"))
