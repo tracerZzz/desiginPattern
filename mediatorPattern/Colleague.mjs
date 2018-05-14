@@ -1,5 +1,10 @@
 
-
+/**
+ * 参与者类
+ * @author zzz
+ * @export
+ * @class Colleague
+ */
 export default class Colleague{
     constructor(name){
         this.name=name

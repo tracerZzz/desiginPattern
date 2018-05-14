@@ -1,6 +1,6 @@
 /**
  * 中介者基类
- * 
+ * @author zzz
  * @class Mediator
  */
 export default class Mediator{
