@@ -1,6 +1,6 @@
 
 /**
- * 参与者类
+ * 合作者类
  * @author zzz
  * @export
  * @class Colleague
